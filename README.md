@@ -1,1 +1,3 @@
 # gdscweb
+Click the link to view the prototype ...
+https://sarvesh-0.github.io/gdscweb/
